@@ -1,5 +1,4 @@
 # MLT-project-
-Welcome to the MLT-project- wiki!
 1.First step is data collection
   - I used Kaggle for it - https://www.kaggle.com/datasets/meetnagadia/human-action-recognition-har-dataset/data
 2.Load and explore your dataset. 
